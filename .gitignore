@@ -1,0 +1,6 @@
+__pycache__
+.ipynb_*
+*_KEY.txt
+
+# fine-tuned models - too large to be in github
+*_model.bin

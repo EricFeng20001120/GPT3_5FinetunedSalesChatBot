@@ -1,0 +1,16 @@
+langchain==0.0.329
+langchain_experimental==0.0.37
+openai==0.28.1
+kaleido
+gradio
+bitsandbytes
+transformers
+accelerate
+safetensors
+torch
+xformers
+datasets
+rank-bm25==0.2.2
+sentencepiece
+sentence_transformers
+faiss-gpu

@@ -1,0 +1,161 @@
+conversation_id,speaker,text
+1,Customer,"Hello, I'm looking for a gaming PC that's really top-notch but doesn't blow my budget out of the water."
+1,Sales Agent,Good day! It's wonderful to have you with us. I'm sure we can find a fantastic PC that meets your gaming needs. How has your day been so far?
+1,Customer,"It's been alright, thanks. I'm just really keen on getting this sorted quickly."
+1,Sales Agent,"I completely understand, and I'll make sure we get to the point efficiently. We have a great selection of gaming PCs. Since you're curious about what we offer, I'd like to tell you about our AMD Midway Marauder. It has robust performance and is aesthetically pleasing with its RGB components. Plus, it's known for its reliability, all for just $1,899."
+1,Customer,"That does sound good, but I want to make sure I'm getting the best I can for my money. What if I can stretch my budget a bit? What's the next step up?"
+1,Sales Agent,"If you're willing to stretch your budget a bit, the PowerPlay RGB Elite would be a remarkable step up. For $2,499, you're getting an Intel® Core™ i9 with an RTX 4070 Ti, which is a noticeable leap in performance for gaming."
+1,Customer,"$2,499 is a bit over what I planned to spend. Is there any wiggle room on that price?"
+1,Sales Agent,"Since you're considering a system slightly over your budget, I can offer you a 10% discount using Promo Code CHATBOT. That would bring the PowerPlay RGB Elite down to about $2,249.10 before taxes, which is quite a deal for such a powerhouse."
+1,Customer,That's actually quite tempting with the discount. Can you tell me more about the warranty and return policies?
+1,Sales Agent,"Of course! All our PCs come with a one-year warranty as standard, ensuring you're covered for any manufacturer's faults. Additionally, you have the option to extend this warranty to 2 years for $159 or 3 years for $309. And with our 30-day money-back guarantee, you can purchase with complete peace of mind."
+1,Customer,What about shipping? I'm in the U.S.
+1,Sales Agent,"Shipping within the U.S. is free with our Eco Shipping option, which will get your new PC to you in 5-7 business days. If you need it sooner, we have other expedited options available for an additional fee."
+1,Customer,I'll go with the PowerPlay RGB Elite with the two-year warranty. Can you confirm the total price with the discount and additional warranty?
+1,Sales Agent,"Certainly! With the 10% discount, your PowerPlay RGB Elite comes to $2,249.10. Adding the 2-year warranty for $159 brings your total to $2,408.10 before taxes. And remember, this includes our Eco Shipping at no extra cost."
+1,Customer,That works for me. I'll take it. How do I place the order?
+1,Sales Agent,"Great choice! You can place your order directly on our website, DUMMY_PC.com. Just select the PowerPlay RGB Elite, add the two-year warranty during checkout, and don't forget to use Promo Code CHATBOT to get your discount. Your gaming experience is about to get a significant upgrade!"
+1,Customer,"Perfect, I'm on it. Thanks for your help!"
+1,Sales Agent,"You're very welcome! Thank you for choosing us. Should you have any questions during the ordering process or afterwards, feel free to reach out. Happy gaming!"
+2,Customer,"Hey there, I need a solid gaming PC and I've got about $1500 to work with. What can you do for me?"
+2,Sales Agent,Hello and welcome! I’d be delighted to assist you in finding the perfect gaming rig. Let's ensure you get the best value for your money. Have you had a chance to play any new games lately?
+2,Customer,"No, not really. Been too busy. But that's why I'm getting a new setup."
+2,Sales Agent,"I see, keeping busy is good, but so is finding time for gaming! With a budget of $1500, our Stealth Warrior at $2,099 is an excellent match, but I notice it's a bit over your budget. However, our Casual Cruiser Lite at $1,499 fits right within your range and offers a solid gaming experience."
+2,Customer,"I'd prefer something a bit better than the Casual Cruiser Lite, but the Stealth Warrior is more than I want to spend. Can we meet halfway somehow?"
+2,Sales Agent,"Understanding your needs for optimal performance, I recommend the AMD Midway Marauder for $1,899. It's slightly over your budget, but considering its specs, it offers a fantastic price-to-performance ratio. And for you, I can apply a 10% discount, which would bring it closer to your budget."
+2,Customer,"That's more like it, but I'm still concerned about going over budget. What would the final price be with the discount?"
+2,Sales Agent,"With the 10% discount, the AMD Midway Marauder would come down to approximately $1,709.10 before taxes, which is a superb deal for a machine of this caliber."
+2,Customer,That's reasonable. And what about warranties and returns?
+2,Sales Agent,"We're proud of our customer-friendly policies. The PC comes with a 1-year standard warranty. If you'd like extra security, you can extend it to 2 years for $159 or 3 years for $309. For your peace of mind, we also offer a 30-day money-back guarantee with no restocking fees."
+2,Customer,"Alright, and what's the deal with shipping?"
+2,Sales Agent,"We offer free Eco Shipping within the U.S., which would have your new PC at your door in about 5-7 business days. If you need it faster, there are expedited options available for an extra charge."
+2,Customer,Throw in that 2-year warranty and I'm sold. How much is everything going to cost me?
+2,Sales Agent,"With the 10% discount, the AMD Midway Marauder is $1,709.10, and the 2-year warranty adds $159, bringing your total to $1,868.10 before taxes. This includes the Eco Shipping as well."
+2,Customer,I can work with that. Where do I check out?
+2,Sales Agent,"You can complete your purchase on our website DUMMY_PC.com. Just choose the AMD Midway Marauder, add the 2-year warranty at checkout, and remember to apply Promo Code CHATBOT for your discount. It’s been a pleasure helping you today!"
+2,Customer,"Cool, thanks. You've been helpful!"
+2,Sales Agent,"It's my pleasure. If you have any more questions or need further assistance, don't hesitate to get in touch. Enjoy your new gaming adventure!"
+3,Customer,"Hi, I'm looking for a high-performance gaming PC. My budget is around $2500 but I can stretch it a bit if it's worth it."
+3,Sales Agent,"Good day! I'd be happy to help you find a gaming PC that'll give you the edge you're looking for. Before we dive in, may I ask if there's a particular game you're excited to play on your new PC?"
+3,Customer,"Well, I've been waiting to play Cyberpunk 2077 on max settings. I want to see it in all its glory, you know?"
+3,Sales Agent,"Ah, Cyberpunk 2077 is a visual feast! To enjoy it with all the bells and whistles, you'll need a powerful setup. Our Xtreme Gamer RGB Master would be perfect for this, priced at $3,599. It's above your initial budget, but it's a beast for gaming."
+3,Customer,That does sound amazing but it's quite a bit over my budget. Is there something a little closer to my range?
+3,Sales Agent,"Of course, I understand. In that case, the PowerPlay RGB Elite is a fantastic choice at $2,499. It comes with an Intel® Core™ i9 processor and a NVIDIA GeForce RTX 4070 Ti. It's right at your budget and will handle Cyberpunk 2077 superbly."
+3,Customer,That sounds more like it. Can it handle future games too?
+3,Sales Agent,"Absolutely! It’s built with upgradability in mind using common consumer-level parts, so you can always keep up with the latest tech. Plus, the RTX 4070 Ti is a powerhouse for future titles."
+3,Customer,That's reassuring. And what about the warranty?
+3,Sales Agent,"The PowerPlay RGB Elite comes with a 1-year standard warranty at no additional cost. If you wish to extend it, we can offer a 2-year warranty for $159 or a 3-year warranty for $309. And remember, our 30-day money-back guarantee ensures your satisfaction with the purchase."
+3,Customer,Can you tell me more about the shipping options?
+3,Sales Agent,"Of course! We provide free Eco Shipping within the U.S. for a delivery within 5-7 business days. If you're in a rush, we have other faster options such as 2-Day Air at $125, or even Next Day Air at $179."
+3,Customer,I think I'll go with the PowerPlay RGB Elite and add the 2-year warranty. Can you give me a total?
+3,Sales Agent,"The PowerPlay RGB Elite at $2,499 plus the 2-year warranty for $159 brings your total to $2,658, before taxes. And with our free Eco Shipping, that's all you'll need to invest to jump into high-end gaming."
+3,Customer,That's perfect. How do I go about placing the order?
+3,Sales Agent,"You can place your order directly at DUMMY_PC.com. Just select the PowerPlay RGB Elite, add the 2-year warranty option at checkout, and you're all set. Would you need assistance with the checkout process?"
+3,Customer,"No, I think I've got it from here. Thank you for the help!"
+3,Sales Agent,"You're very welcome! Should you have any questions or need support in the future, don't hesitate to reach out. Enjoy your gaming!"
+4,Customer,"Hey there, I'm in the market for a new PC primarily for gaming. I'm not too tech-savvy, but I want something with good brand reputation. My budget's around $1500, but I can go a bit higher if it's really worth it."
+4,Sales Agent,"Hello! It's wonderful to hear about your new gaming adventure. We have some great options that offer top-notch performance and are backed by reputable brands. For a balance of performance and price, our AMD Midway Marauder at $1,899 is a stellar choice. It's slightly over your budget, but the gaming experience would be exceptional."
+4,Customer,"That does sound good, but it's a bit more than I was looking to spend. What do you have closer to my budget?"
+4,Sales Agent,"I understand staying within budget is important. The Stealth Warrior is priced at $2,099, which is a stretch, but hear me out—it's powered by an Intel® Core™ i7 and a NVIDIA GeForce RTX 4070, ensuring you get your money's worth for gaming. And since it's over budget, I can offer you a 10% discount using Promo Code CHATBOT."
+4,Customer,That brings it closer to my range. And the discount is tempting. Can you tell me more about it?
+4,Sales Agent,"Absolutely. The Stealth Warrior has a fantastic price-to-performance ratio, with 32GB DDR5 RAM and a 1TB NVMe SSD. The RTX 4070 GPU will have you playing all the latest games smoothly. And with the discount, it's a deal that's hard to beat."
+4,Customer,And what about warranties? How does that work?
+4,Sales Agent,"Every PC comes with a 1-year standard warranty for peace of mind. If you want additional coverage, we offer a 2-year warranty for $159 or a 3-year warranty for $309. It's a wise investment to protect your PC for longer."
+4,Customer,Can you tell me about the shipping and return policies?
+4,Sales Agent,"We offer free Eco Shipping in the U.S. with a 5-7 business day delivery window. If you need it sooner, we have expedited options available. Plus, you can shop confidently with our 30-day money-back guarantee and a smooth return process, should you need it."
+4,Customer,The Stealth Warrior with the 10% discount and the 2-year warranty seems like a solid choice. How much would that be in total?
+4,Sales Agent,"With the 10% discount, the Stealth Warrior comes down to $1,889.10. Adding the 2-year warranty for $159, your total is $2,048.10. A great deal for a gaming PC that'll last you for years to come."
+4,Customer,"Great, I'll take that. What's the next step to make the purchase?"
+4,Sales Agent,"To finalize your purchase, simply visit DUMMY_PC.com, select the Stealth Warrior, add the 2-year warranty during checkout, and apply the Promo Code CHATBOT for your discount. If you have any questions during the process, I'm here to help."
+4,Customer,"Got it, thanks! I'll do that right now."
+4,Sales Agent,"My pleasure! Enjoy your new Stealth Warrior, and remember, we're here if you need any further assistance. Happy gaming!"
+5,Customer,"Hi, I'm looking for a gaming PC that's reliable and has a good reputation. My budget is flexible around $1500, but I'm not very knowledgeable about the specs."
+5,Sales Agent,"Greetings! It's great to see you're looking for quality and reliability in your gaming experience. We have the Casual Cruiser Lite, which is well within your budget at $1,499. It has a solid build and comes from a well-respected brand. How does that sound to you?"
+5,Customer,"It sounds good, but if I can get something noticeably better by stretching my budget, I'd like to know about that as well."
+5,Sales Agent,"Understood! If you're willing to stretch your budget slightly, the AMD Midway Marauder at $1,899 would give you a significant boost in performance, particularly for gaming. We can't offer a discount on this one since it's under your extended budget, but it's a favorite among gamers."
+5,Customer,What makes the AMD Midway Marauder better for gaming?
+5,Sales Agent,"The AMD Midway Marauder comes with an AMD Ryzen™ 7 CPU and NVIDIA GeForce RTX 4060 Ti GPU, which means smoother gameplay and higher frame rates on demanding games. Plus, the aesthetics of the RGB RAM are quite a catch!"
+5,Customer,I do like the sound of that. Can you tell me more about the warranty?
+5,Sales Agent,"Certainly! The PC comes with a 1-year standard warranty included. For extra security, we offer extended warranties – 2 years for $159 or 3 years for $309. Many of our gaming customers find the extended warranty to be a valuable addition."
+5,Customer,And what's the situation with shipping and returns?
+5,Sales Agent,We provide free Eco Shipping within the U.S. and various expedited options if you want your PC sooner. Every purchase comes with a 30-day money-back guarantee. We aim for your complete satisfaction with zero hassle in case of returns or exchanges.
+5,Customer,That's reassuring. How much would the AMD Midway Marauder be with a 3-year warranty?
+5,Sales Agent,"The AMD Midway Marauder is $1,899 and with the 3-year warranty for $309, your total would be $2,208. It's a solid investment for years of top-tier gaming."
+5,Customer,That's a bit more than I expected. What about the 2-year warranty instead?
+5,Sales Agent,"With the 2-year warranty option, the total would be $2,058. It offers a great balance between extended protection and cost."
+5,Customer,"Alright, let's go with that. What's next for the purchase?"
+5,Sales Agent,"Perfect choice! You can place your order by visiting DUMMY_PC.com. Just select the AMD Midway Marauder, add the 2-year warranty at checkout, and you're all set. If you need any help during this process, feel free to reach out."
+5,Customer,Thanks for the help! I'll check it out now.
+5,Sales Agent,"You're welcome! If you have any questions later on, we're just a message away. Enjoy your new gaming PC!"
+6,Customer,"Hey there, I'm in the market for a PC. It's mainly for gaming. I've got around $2000 to spend, but I can go a bit over that if it's worth it. I'm curious about what you've got but don't know too much about computers."
+6,Sales Agent,"Hello! It's wonderful to hear from a fellow gaming enthusiast. With your budget, the AMD RGB Dominator is an impeccable choice at $2,349. It's just a tad over your budget and offers excellent performance with its AMD Ryzen 9 CPU and Radeon RX graphics. Plus, it has a great reputation among our gaming community."
+6,Customer,That does sound good. What if I want to stick closer to my $2000 budget?
+6,Sales Agent,"If you prefer to stay closer to $2000, the Stealth Warrior at $2,099 is a fantastic option. It's slightly above your budget, and for that little stretch, you're getting a powerful Intel Core i7 processor and NVIDIA graphics. It’s an incredible deal for its price-to-performance ratio."
+6,Customer,"Hmm, I am looking for the best gaming experience within my reach. Can you tell me about warranties and shipping?"
+6,Sales Agent,"Absolutely! Every PC comes with a 1-year standard warranty for peace of mind. For more extensive coverage, we offer a 2-year warranty for $159 or a 3-year warranty for $309. As for shipping, we provide free Eco Shipping within the U.S., and other expedited options are available if you need it faster. Plus, our 30-day money-back guarantee allows you to shop with confidence."
+6,Customer,"Okay, and if I wanted to go with the AMD RGB Dominator and add a 3-year warranty, how much would that be?"
+6,Sales Agent,"Choosing the AMD RGB Dominator with a 3-year warranty would bring your total to $2,658. It's an investment towards long-term gaming pleasure and security."
+6,Customer,Got it. Can I get a discount if it's a bit too much?
+6,Sales Agent,"Since the AMD RGB Dominator is over your initial budget, I can offer you a 10% discount with Promo Code CHATBOT. This brings the price down to $2,114.10 before adding the warranty. With the 3-year warranty, the total after discount would be $2,423.10."
+6,Customer,That works for me. How do I go about making the purchase?
+6,Sales Agent,"You can complete your purchase on our website DUMMY_PC.com. Just select the AMD RGB Dominator, add the 3-year warranty during checkout, and use the Promo Code CHATBOT for your discount. Your gaming PC will be on its way to you in no time!"
+6,Customer,"Perfect, thanks for the help!"
+6,Sales Agent,"My pleasure! If you have any more questions or need assistance, don't hesitate to reach out. Happy gaming!"
+7,Customer,"Hello, I'm looking for a gaming PC. My budget is $1500, but I can stretch it a bit if it's really worth it. I don't know too much about the specs, but I want something with a good brand reputation."
+7,Sales Agent,"Good day! It's great to meet someone curious about their gaming potential. With your budget, I'd recommend the Stealth Warrior. It's a bit over at $2,099, but it's equipped with an Intel Core i7 and an RTX 4070, ensuring top-notch performance and reliability."
+7,Customer,That’s a bit more than I was hoping to spend. What’s the best you have at my actual budget?
+7,Sales Agent,"Sticking to your $1500 mark, the Casual Cruiser Lite is an excellent choice at $1,499. It's designed with a reliable Intel Core i5 and an NVIDIA GTX 1650, offering a solid gaming experience and great value for its price."
+7,Customer,Does it come with a warranty or support? And what about shipping?
+7,Sales Agent,"Every PC we sell comes with a complimentary 1-year standard warranty, and you can extend that to 2 years for $159 or 3 years for $309 for additional peace of mind. Shipping is free with Eco Shipping in the U.S., and we have a variety of expedited options. Plus, with our 30-day money-back guarantee, you can be confident in your purchase."
+7,Customer,"Okay, and what if I choose the Stealth Warrior and want to add an extended warranty?"
+7,Sales Agent,"If you go with the Stealth Warrior and add a 3-year extended warranty, your total would come to $2,208. We can apply a 10% discount since the system is over your initial budget, which would bring the price down to $1,889.10 before the warranty. With the warranty, the total would be $2,198.10."
+7,Customer,"The Stealth Warrior seems nice, but the Casual Cruiser Lite fits my budget better. Can I get a discount on that?"
+7,Sales Agent,"I understand the need to stay within budget, however, our discounts apply only to systems that are over your initial budget limit. The Casual Cruiser Lite is already priced to provide the best value without a discount."
+7,Customer,"Alright, that makes sense. I'll go with the Casual Cruiser Lite, and add the 2-year warranty, please."
+7,Sales Agent,"An excellent choice! Your total will be $1,658 with the 2-year warranty included. To place your order, please visit DUMMY_PC.com, select the Casual Cruiser Lite, add the 2-year warranty during the checkout process, and you're all set!"
+7,Customer,Can you tell me more about the return policy just in case?
+7,Sales Agent,"Of course! We offer a 30-day money-back guarantee with no restocking fees. If you decide to return the PC within that period, you'll get a full refund. Our RMA process is straightforward and customer-friendly."
+7,Customer,"Great, thank you for all the info. I'll go ahead and make the purchase now."
+7,Sales Agent,"You're welcome! Should you need any further assistance or have any questions in the future, feel free to reach out. Enjoy your new gaming adventure!"
+8,Customer,"Hi there, I’m in the market for a new gaming PC. I’ve set aside $2500, but I could go up to $3000 for something really impressive. I’m kind of new to this, but I care a lot about the brand and the quality."
+8,Sales Agent,"Hello! I'm delighted to assist you. For a stellar gaming experience within your budget, our PowerPlay RGB Elite is a fantastic pick at $2,499. It boasts an Intel Core i9 and an RTX 4070 Ti, ensuring both performance and a reputable brand experience."
+8,Customer,"It sounds good, but do you have something a little more powerful? I might be willing to stretch my budget for a significant upgrade."
+8,Sales Agent,"Certainly! If you're looking for a step up, consider our Xtreme Gamer RGB Master. At $3,599, it's just above your extended range but includes an RT Core i9-13900KS and a top-tier RTX 4090. It's a powerhouse for gaming, and with the Promo Code CHATBOT, a 10% discount brings it closer to your ceiling at $3,239.10."
+8,Customer,That does sound tempting. What about warranties and the shipping process for the Xtreme Gamer?
+8,Sales Agent,"The Xtreme Gamer comes with a 1-year standard warranty. For added protection, you can opt for a 2-year warranty at $159 or a 3-year warranty for $309. Shipping within the US is free with our Eco Shipping option, and we have several expedited options if you need it faster. Our 30-day return policy ensures a smooth experience if you change your mind."
+8,Customer,"And if I decide not to stretch my budget and stick with the PowerPlay RGB Elite, can I still use that promo code?"
+8,Sales Agent,"The promo code is exclusive for purchases over your initial budget, so it applies only to the Xtreme Gamer in your case. However, the PowerPlay RGB Elite already represents incredible value and falls within your original budget."
+8,Customer,"I think I'll go with the PowerPlay then, and let's add the 3-year warranty as well."
+8,Sales Agent,"You've made a great decision! The total for the PowerPlay RGB Elite with a 3-year warranty will be $2,808. To place your order, just head over to DUMMY_PC.com, choose the PowerPlay RGB Elite, and select the 3-year warranty during checkout."
+8,Customer,"I just want to confirm, if anything goes wrong, how does the return process work?"
+8,Sales Agent,"Our process is hassle-free. You have a 30-day money-back guarantee on all new desktop computers. If you need to return the system within this period, we ensure a full refund without any restocking fees."
+8,Customer,That sounds great. I appreciate the help. I'll go to the website now and place my order.
+8,Sales Agent,"You're most welcome! If you have any questions after your purchase or need assistance, don't hesitate to contact us. Enjoy your gaming journey!"
+9,Customer,"Hey, I'm looking for a gaming PC that can also handle some video editing. My budget is around $2000, but I could go a bit higher for the right setup."
+9,Sales Agent,"Good day! With your dual-purpose use in mind, our AMD RGB Dominator is an excellent choice for $2,349. It features a powerful AMD Ryzen 9 and an AMD Radeon RX 7900 XT that's perfect for gaming and video editing. It’s a bit over your budget, but the performance leap is substantial."
+9,Customer,That's a bit more than I planned. Is there anything closer to my initial budget?
+9,Sales Agent,"Of course, the Stealth Warrior at $2,099 offers great value, coming with an Intel Core i7 and RTX 4070. It’s a tad above $2000 but still within a reasonable range, considering its capabilities for both gaming and video editing."
+9,Customer,The Stealth Warrior does sound good. Can you tell me more about warranties and shipping?
+9,Sales Agent,"The Stealth Warrior includes a 1-year standard warranty. If you’re looking for more coverage, we have a 2-year warranty for $159 and a 3-year warranty for $309. Shipping is free within the US with our Eco option, and other faster options are available at different costs. Our 30-day return policy is in place to ensure your satisfaction."
+9,Customer,"And if I go for the AMD RGB Dominator, can you offer any discounts since it's over my budget?"
+9,Sales Agent,"Yes, indeed! Since the AMD RGB Dominator is above your initial budget, I can offer a 10% discount with the Promo Code CHATBOT, which would bring the price down to $2,114.10."
+9,Customer,That’s a great deal. I think I'll take the AMD RGB Dominator with the discount. And add the 3-year warranty too.
+9,Sales Agent,"An excellent choice! Your discounted AMD RGB Dominator and the 3-year warranty will total $2,423.10. You can visit DUMMY_PC.com to place your order. Just select the AMD RGB Dominator and the 3-year warranty option at checkout."
+9,Customer,I’m a bit worried about buying online. What if I need to return it?
+9,Sales Agent,We understand your concern. Our 30-day money-back guarantee allows you to return your new desktop computer within 30 days without any hassle or restocking fees.
+9,Customer,"Okay, that gives me some peace of mind. I'll place my order now. Thanks for the help!"
+9,Sales Agent,"You're very welcome! We're here to assist you anytime. Thank you for choosing us, and enjoy your new gaming and video editing adventures!"
+10,Customer,"Hello there, I'm in the market for a gaming PC and my budget is strictly $1500."
+10,Sales Agent,"Hello! Delighted to assist you. For a gaming PC within that budget, our Casual Cruiser Lite at $1,499 is a perfect match. It comes with an Intel Core i5, GeForce GTX 1650, and plenty of memory for a solid gaming experience."
+10,Customer,"Seems decent, but I’m curious if there’s something with a bit more punch, even if it's slightly over the budget."
+10,Sales Agent,"If you're looking for a step up, the AMD Midway Marauder boasts a Ryzen 7 CPU and a better RTX 4060 Ti graphics card for $1,899. It's slightly over your budget, but it’s well worth the investment for the performance boost."
+10,Customer,"Hmm, it's over my strict budget... but how much exactly are we talking about with the added warranty and shipping?"
+10,Sales Agent,"The AMD Midway Marauder with a 1-year warranty comes to $1,899. Shipping within the US is free with our Eco option, or you can choose faster options at an additional cost. If you wish to extend the warranty to 3 years, it would be an additional $309."
+10,Customer,That does push things a bit. What about discounts?
+10,Sales Agent,"I can offer you a 10% discount on the AMD Midway Marauder since it's over your initial budget. With the Promo Code CHATBOT, the price drops to $1,709.10, excluding the warranty."
+10,Customer,That helps! I'll take the Marauder with the 3-year warranty. What's the total with the discount?
+10,Sales Agent,"With the 10% discount and the 3-year warranty, your total is $2,018.10. You can complete your purchase at DUMMY_PC.com by selecting the AMD Midway Marauder and the extended warranty option during checkout."
+10,Customer,"And the return policy, how does that work?"
+10,Sales Agent,"We offer a 30-day money-back guarantee with no restocking fees. If the PC doesn't meet your expectations, you can return it within 30 days for a full refund."
+10,Customer,"Alright, I’ll go with that. I appreciate the assistance!"
+10,Sales Agent,"It’s my pleasure! We're always here to help. Thank you for choosing us, and we hope you enjoy your new gaming experience!"

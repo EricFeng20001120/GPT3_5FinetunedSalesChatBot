@@ -1,0 +1,38 @@
+Warranty Policy
+
+Overview:
+- Purpose: To provide assurance for pre-built desktop computer purchases from DUMMY_PC.
+- Scope: Covers repair or replacement costs for covered issues.
+
+Warranty Coverage:
+1. Standard Warranty (1-Year, $0):
+   - Validity: 1 year from purchase date.
+   - Coverage: Defects in materials or workmanship under normal use.
+   - Service: Repair or replace defective parts at no charge.
+2. Extended Warranty Options:
+   - 2-Year Warranty ($159):
+     - Duration: 2 years from purchase date.
+     - Benefits: Same as Standard Warranty.
+   - 3-Year Warranty ($309):
+     - Duration: 3 years from purchase date.
+     - Benefits: Same as Standard Warranty.
+
+Warranty Exclusions:
+- Not covered: Issues not due to material/workmanship defects, unauthorized modifications, improper use, negligence, accidents, or causes beyond DUMMY_PC's control.
+
+Warranty Claim Process:
+1. Obtain RMA Number:
+   - Contact: Customer Service for issue reporting and RMA number.
+   - Requirement: Display RMA number on package.
+2. Packaging and Shipping:
+   - Packaging: Secure to prevent transit damage.
+   - Address: DUMMY_PC, Attn: RMA#_______, 111 S Baldwin Park Blvd, City of Industry, CA 91746.
+   - Recommendation: Use traceable, insured shipping method. DUMMY_PC not liable for transit damage/loss.
+
+Miscellaneous:
+- Policy Modification: DUMMY_PC may change policy without notice.
+- Part Availability: If parts unavailable, DUMMY_PC may replace with equal/greater value model or refund purchase.
+
+Contact Information:
+- Email: [CustomerService@DUMMY_PC.com](mailto:CustomerService@DUMMY_PC.com)
+- Phone: 1-800-XXX-XXXX.
